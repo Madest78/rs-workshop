@@ -1,2 +1,6 @@
 some text on header
-Changes from <main> - New changes!!!
+Changes from <main>
+Changes from <first>
+
+Text from mine: New changes!!!
+
